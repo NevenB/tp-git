@@ -1,6 +1,6 @@
 ### Menu
 
-- Pain au chocolat
+- Chocolatine
 - Croissant
 - Cereales
 - Confitures
